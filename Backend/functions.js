@@ -1,4 +1,5 @@
-// This is a JavaScript web module (JSW).
+/* This is a JavaScript web module (JSW).
+   The reason the file is names with the (.js) extetion instead of the (.jsw) is only for styling purposes */
 import data from 'wix-data';
 
 export function isValidAuthorID(id) {
